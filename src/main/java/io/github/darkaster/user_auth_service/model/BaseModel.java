@@ -22,4 +22,6 @@ public abstract class BaseModel {
 
     @LastModifiedDate
     private Date updatedAt;
+
+    private EntityState state;
 }
