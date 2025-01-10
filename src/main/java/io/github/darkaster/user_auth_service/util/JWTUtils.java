@@ -33,4 +33,9 @@ public class JWTUtils {
                 .signWith(getSingingKey())
                 .compact();
     }
+
+    public Boolean validateToken(String token) {
+
+        return true;
+    }
 }
