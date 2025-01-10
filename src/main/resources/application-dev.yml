@@ -1,4 +1,0 @@
-application:
-  jwt:
-    secret: "UHZHaWdIZnFWQ0tlSkxZZnRIaUtoaG1qaWZJYm1FcTQ="
-    expiration: 28800 # in seconds
